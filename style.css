@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: deepskyblue;
+    color:aliceblue;
+}
+#ausgabe {
+    font-size: 24px;
+}
+
+h1 { font-size: 48px;}
+
+#btn {
+    border:none;
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius:10px;
+}
+
+#deine-zahl {
+    border:none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+#deine-zahl:focus {
+    border:none;
+
+}
+
+#zufall-zahl {
+
+    font-size:48px;
+}
+
+.again {
+
+    background-color: darkblue;
+    padding: 5px 10px;
+
+    border:none;
+    border-radius:10px;
+    color: aliceblue;
+}
