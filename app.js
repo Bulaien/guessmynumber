@@ -37,6 +37,7 @@ again.addEventListener('click', function() {
     compZahl.textContent="?";
     document.querySelector("#deine-zahl").value="";
     document.querySelector("body").style.backgroundColor = "deepskyblue";
+    document.querySelector("#ausgabe").textContent =""
 
 })
 
